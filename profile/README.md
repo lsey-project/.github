@@ -9,4 +9,4 @@
 ## Contact:
 * Email <lseything@proton.me>
 * Email2 <lseything@linuxmail.org>
-* Telegram @Lseything
+* Telegram <https://t.me/Lseything>
